@@ -1,4 +1,5 @@
 # https://chat.openai.com/share/14e8dc0a-a202-4868-8eb1-dc5f030ff3b1
+# pointless change so i can notify colaborator
 from jsonschema import Draft7Validator, exceptions
 from jsonschema.validators import extend
 
