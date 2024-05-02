@@ -2,7 +2,7 @@ import jsonschema
 
 def validate_schema(data, schema):
     """
-    Validate the data against the given schema.
+    Validate the json request against the given json schema.
 
     Args:
         json_request: Dictionary representing the JSON request.
